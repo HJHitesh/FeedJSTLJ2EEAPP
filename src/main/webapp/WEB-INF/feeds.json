@@ -1,0 +1,27 @@
+[
+    {
+        "title": "New Java Release",
+        "description": "Java 17 has been released with new features and improvements.",
+        "date": "2024-10-30"
+    },
+    {
+        "title": "Spring Boot Updates",
+        "description": "Spring Boot 3.0 is now available with enhanced support for cloud-native applications.",
+        "date": "2024-10-30"
+    },
+    {
+        "title": "Angular 14 Launch",
+        "description": "Angular 14 has been officially released with improved performance and new features.",
+        "date": "2024-10-30"
+    },
+    {
+        "title": "Docker Best Practices",
+        "description": "Learn the best practices for using Docker in your applications.",
+        "date": "2024-10-30"
+    },
+    {
+        "title": "Machine Learning Trends",
+        "description": "Explore the latest trends in machine learning for 2024.",
+        "date": "2024-10-30"
+    }
+]
